@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GestorCliente</string>
+    <string name="button">Button</string>
+    <string name="adicionar_cliente">Adicionar Cliente</string>
+    <string name="cadastrar_cliente">Cadastrar cliente</string>
+    <string name="digite_o_seu_nome">Digite o seu nome</string>
+    <string name="salvar">Salvar</string>
+    <string name="_123_456_789_00">123.456.789-00</string>
+    <string name="email_mail_com">email@mail.com</string>
+    <string name="dados_do_cliente">Dados do cliente</string>
+    <string name="alterar">Alterar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="deletar">Deletar</string>
+    <string name="client_name">Client Name</string>
+</resources>
